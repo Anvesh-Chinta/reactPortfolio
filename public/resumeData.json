@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Pratya Anvesh Chinta",
+    "occupation": "ReactJS Developer && Instructor @FDOM2020",
+    "description": "Full Stack React Developer by Day, Instructor TXST, #Anvesh",
+    "image": "Praan.JPG",
+    "bio": "My name is Pratya, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "pratya.anvesh.chinta@gmail.com",
+    "phone": "+15122101017",
+    "address": {
+      "street": "800 N LBJ Dr",
+      "city": "San Marcos",
+      "state": "Texas",
+      "country": "USA",
+      "zip": "78666"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pratya-anvesh-c-a60ab8125",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/pratya_anvesh/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Anvesh-Chinta",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Texas State University",
+        "degree": "Masters in Computer Science",
+        "graduated": "December 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Texas State University",
+        "title": "Teaching Assistant",
+        "years": "August 2019 - Present",
+        "description": "Teaching HTML, CSS, JS to thousands of students."
+      },
+      {
+        "company": "CME Group",
+        "title": "QA Intern",
+        "years": "May 2020 - August 2020",
+        "description": "Developed Automation script in Java Programming language for Browser and headless browser testing for Screen pop Application."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "JAVA",
+        "level": "65%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "It’s been wonderful having Pratya with us for the summer. He’s been a great addition to the Team, helping us out with Test Automation development. Lots has been thrown at him since he arrived, many new technologies and a lot about our business. He’s taking the time to understand all of it. He is very inquisitive, always wanting to learn all that he can, not just about his immediate task but he looks broader. I can tell he is a fast learner and applying what he has learned in school so far. I wish we were all back in the office together as that would give Pratya an even better experience, but I can safely say that he’s making the best of the situation for sure. I expect at the end of the summer that we’ll have many fully functional tests for our automation which will be a huge value add and he will have learned a lot about our applications, automation, our team and our company. ",
+        "user": "Rocco Amidei, Team Manager, CME Group"
+      },
+      {
+        "text": "That Pratya must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
